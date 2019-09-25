@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "server",
+      "type": "com.lwy.controller.com.lwy.config.ServerProperties",
+      "sourceType": "com.lwy.controller.com.lwy.config.ServerProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "server.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.lwy.controller.com.lwy.config.ServerProperties"
+    }
+  ],
+  "hints": []
+}
